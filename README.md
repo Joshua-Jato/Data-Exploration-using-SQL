@@ -7,4 +7,6 @@ Performed Data Eploration using covid-19 dataset. The data set was downloaded as
 5. Looking at Total Population Vs Vaccinations
 6. Ues of CTEs
 7. Creation of Temp Tables and more....
+
+
 Kindly download the file for full details of the project
