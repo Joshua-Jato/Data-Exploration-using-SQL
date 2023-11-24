@@ -1,6 +1,3 @@
---selecting data that is going to be used from CovidDeaths and CovidVaccinations.
-
-
 
 --looking at total_cases vs death_percentage
 
@@ -32,7 +29,7 @@ order by 4 desc
 
 --showing countries with highest death count per population
 
-select location, max(cast (total_deaths as int)) as Total_Death_Count
+select location, population, max(cast (total_deaths as int)) as Total_Death_Count
 from PortfolioProject..CovidDeaths
 --where location like '%Nigeria%'
 where continent is not null 
