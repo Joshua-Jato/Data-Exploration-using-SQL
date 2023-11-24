@@ -1,5 +1,5 @@
 # Data-Exploration-using-SQL
-Performed Data Eploration using covid-19 dataset. The data set was downloaded as an excel file and then imorted into SQL where the data exploration was carried out. The following topics were explore:
+Performed Data Eploration using covid-19 dataset. The data set was downloaded as an excel file and then imorted into SQL where the data exploration was carried out. The following topics were explored:
 1. looking at total_cases vs death_percentage
 2. looking at countries with highest infection rate compared to population
 3. showing countries with highest death count per population
