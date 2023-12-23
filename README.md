@@ -5,7 +5,7 @@ Performed Data Eploration using covid-19 dataset. The data set was downloaded as
 3. showing countries with highest death count per population
 4. Showing continents with the highest death counts per population
 5. Looking at Total Population Vs Vaccinations
-6. Ues of CTEs
+6. Use of CTEs
 7. Creation of Temp Tables and more....
 
 
